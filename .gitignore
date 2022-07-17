@@ -3,3 +3,8 @@
 *.exe
 cscope.out
 buckle
+
+build/
+compile_commands.json
+*.vim
+.cache
